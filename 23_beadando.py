@@ -1,0 +1,1 @@
+print("huszonharmadik feladat")
